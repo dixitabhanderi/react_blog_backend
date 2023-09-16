@@ -1,2 +1,2 @@
-node_modules
-mongo-db-data
+/node_modules
+/mongo-db-data
